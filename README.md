@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergioperez1998" alt="sergioperez1998" /> </p>
 
+  
+
 - 🔭 Actualmente estoy trabajando en [Followgic](https://github.com/Followgic-Team/Followgic)
 
 - 🌱 Actualmente estoy aprendiendo **Node.JS, Express.Js, Angular, MongoDB**
@@ -19,5 +21,6 @@
 ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=sergioperez1998&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <p align="center">
+<a href="https://linkedin.com/in/sergio-perez-9a56661b2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sergio-perez-9a56661b2" height="30" width="30" /></a>
 <a href="https://instagram.com/sergiipm98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sergiipm98" height="30" width="30" /></a>
 </p>
